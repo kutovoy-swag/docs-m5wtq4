@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-i6z7li.doyakart.com/sitemap.xml
